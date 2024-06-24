@@ -11,5 +11,5 @@ that primary code document is SteamGamesData.ipynb
 This contains a sub-folder, and a zip document. The zip document, games_info_clean.csv.zip, contains the raw data. cleanData contains the data we cleaned;
 That file is called rated_games.csv
 # Conclusions
-We had fun with the project, and since this was just ETL, we didn't get to find any interesting isights, but we were able to do some cleaning.
+We had fun with the project, and since this was just ETL, we didn't get to find any interesting insights, but we were able to do some cleaning.
 Hopefully this readme is clear and concise
