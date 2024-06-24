@@ -1,7 +1,7 @@
 # Team-Epsilon Extract Transform Load Project
 ### Aaron Sell, Nolan Simmons, Ange Ndjeka, Oluwaseun Orepekan
 This project demonstrates the ETL (Extract, Transform, Load) process using a dataset from Kaggle, this being Valve's Steam Games info. The process includes extracting data from a zipped CSV file, transforming the data in a Jupyter Notebook, and loading the processed data into a MongoDB database.
-
+https://www.kaggle.com/datasets/fronkongames/steam-games-dataset?resource=download
 # Directories
 We have two primary directories: jupyterNotebook and resources.
 ## Jupyter Notebook
