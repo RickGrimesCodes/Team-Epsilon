@@ -1,5 +1,5 @@
 # Team-Epsilon Extract Transform Load Project
-# Aaron Sell, Nolan Simmons, Ange Ndjeka, Oluwaseun Orepekan
+### Aaron Sell, Nolan Simmons, Ange Ndjeka, Oluwaseun Orepekan
 In this project we decided to use the a large csv containing infomation about games from Valve's storefront Steam.
 We did some simple cleaning, and imported the data into MongoDB.
 # Directories
