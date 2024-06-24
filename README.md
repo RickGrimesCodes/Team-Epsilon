@@ -12,4 +12,4 @@ This contains a sub-folder, and a zip document. The zip document, games_info_cle
 That file is called rated_games.csv
 # Conclusions
 We had fun with the project, and since this was just ETL, we didn't get to find any interesting insights, but we were able to do some cleaning.
-Hopefully this readme is clear and concise
+Hopefully this readme is clear and concise.
